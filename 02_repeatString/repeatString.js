@@ -1,5 +1,5 @@
 const repeatString = function() {
-
+    let greeting = "";
 };
 
 // Do not edit below this line
