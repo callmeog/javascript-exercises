@@ -1,5 +1,4 @@
 const removeFromArray = function(a, b) {
-    a = [1, 2, 3, 4,], 3;
     b = a.splice(2,1);
     return a
     
