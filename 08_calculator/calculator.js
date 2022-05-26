@@ -1,6 +1,17 @@
-const add = function() {
-	
+const add = function(a,b) {
+	return a + b;
 };
+add(0,0);
+
+const add1 = function(c,d) {
+	return c + d;
+};
+add1(2,2);
+
+const add2 = function(e,f) {
+	return e + f;
+};
+add2(2,6);
 
 const subtract = function() {
 	
