@@ -65,9 +65,11 @@ console.log(multiplys([2,4,6,8,10,12,14]));
 //***** end of multiply *******/
 
 
-const power = function() {
-	
+const power = function(power4,power3) {
+	return Math.pow(power4,power3);
 };
+console.log(power(4,3));
+//***** end of power *******/
 
 const factorial = function() {
 	
